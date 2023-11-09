@@ -1,7 +1,7 @@
 # Bank Service API
 
 ### **Overview**
-This project is a basic banking service implemented using MySQL for data storage and Spring Boot for the backend. It provides functionality for adding accounts, creating transactions (deposits/withdrawals), logging transactions, account login, and viewing account balance and transaction details.
+This project is a basic banking service implemented using Spring Boot and MySQL for data storage  for the backend. It provides functionality for adding accounts, creating transactions (deposits/withdrawals), logging transactions, account login, and viewing account balance and transaction details.
 
 ### **Features**
   * Add Account
@@ -23,6 +23,10 @@ This project is a basic banking service implemented using MySQL for data storage
 ### **Swagger ApI**
 <a href="https://muhammed-safwat.github.io/Bank-Service-Project/"> API Documentation </a>
 
+=======
+### **Swagger ApI**
+<a href="https://muhammed-safwat.github.io/Bank-Service-Project/">API Documentation</a>
+>>>>>>> 3caf93431b2653c8719d754e68af60ab031580cd
 ### Database Tables
 
 <img src="bankServiceDatabaseTables.png">
