@@ -23,10 +23,6 @@ This project is a basic banking service implemented using Spring Boot and MySQL 
 ### **Swagger ApI**
 <a href="https://muhammed-safwat.github.io/Bank-Service-Project/"> API Documentation </a>
 
-=======
-### **Swagger ApI**
-<a href="https://muhammed-safwat.github.io/Bank-Service-Project/">API Documentation</a>
->>>>>>> 3caf93431b2653c8719d754e68af60ab031580cd
 ### Database Tables
 
 <img src="bankServiceDatabaseTables.png">
